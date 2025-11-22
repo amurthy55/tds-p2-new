@@ -1,0 +1,2 @@
+curl -X POST "http://127.0.0.1:8000/solve" -H "Content-Type: application/json" -d  '{"email": "25ds2000003@ds.study.iitm.ac.in", "secret": "0ct0b3r", "url": "https://tds-llm-analysis.s-anand.net/demo"}'
+
