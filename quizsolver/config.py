@@ -6,5 +6,5 @@ STUDENT_SECRET = "0ct0b3r"
 # Choose which LLM to use
 USE_AIPIPE = True
 
-AIPIPE_API_KEY = os.getenv("eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI1ZHMyMDAwMDAzQGRzLnN0dWR5LmlpdG0uYWMuaW4ifQ.fMliBdoOr_zr-iEv-IjoMtMMcai5PWBvPCh08wQMmoc")
+AIPIPE_API_KEY = os.getenv("AIPIPE_API_KEY")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
