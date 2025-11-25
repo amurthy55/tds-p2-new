@@ -1,1 +1,2 @@
-tds-p2\quizsolver\solver\.env
+.env
+*.env
